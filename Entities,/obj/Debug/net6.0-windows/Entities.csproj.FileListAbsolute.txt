@@ -1,0 +1,12 @@
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\Entities,\bin\Debug\net6.0-windows\Entities.deps.json
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\Entities,\bin\Debug\net6.0-windows\Entities.dll
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\Entities,\bin\Debug\net6.0-windows\Entities.pdb
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\Entities,\obj\Debug\net6.0-windows\Entities.csproj.AssemblyReference.cache
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\Entities,\obj\Debug\net6.0-windows\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\Entities,\obj\Debug\net6.0-windows\Entities.AssemblyInfoInputs.cache
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\Entities,\obj\Debug\net6.0-windows\Entities.AssemblyInfo.cs
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\Entities,\obj\Debug\net6.0-windows\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\Entities,\obj\Debug\net6.0-windows\Entities.dll
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\Entities,\obj\Debug\net6.0-windows\refint\Entities.dll
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\Entities,\obj\Debug\net6.0-windows\Entities.pdb
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\Entities,\obj\Debug\net6.0-windows\ref\Entities.dll

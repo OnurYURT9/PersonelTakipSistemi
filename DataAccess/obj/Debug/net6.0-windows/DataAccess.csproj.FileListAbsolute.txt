@@ -1,0 +1,17 @@
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\bin\Debug\net6.0-windows\DataAccess.deps.json
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\bin\Debug\net6.0-windows\DataAccess.dll
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\bin\Debug\net6.0-windows\DataAccess.pdb
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\bin\Debug\net6.0-windows\Entities.dll
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\bin\Debug\net6.0-windows\Entities.pdb
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\obj\Debug\net6.0-windows\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\obj\Debug\net6.0-windows\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\obj\Debug\net6.0-windows\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\obj\Debug\net6.0-windows\DataAccess.AssemblyInfo.cs
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\obj\Debug\net6.0-windows\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\obj\Debug\net6.0-windows\DataAccess.csproj.CopyComplete
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\obj\Debug\net6.0-windows\DataAccess.dll
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\obj\Debug\net6.0-windows\refint\DataAccess.dll
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\obj\Debug\net6.0-windows\DataAccess.pdb
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\obj\Debug\net6.0-windows\ref\DataAccess.dll
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\bin\Debug\net6.0-windows\Core.dll
+C:\Users\ONUR\source\repos\Personel-Takip-Sistemi\DataAccess\bin\Debug\net6.0-windows\Core.pdb
